@@ -5,7 +5,10 @@
 - [ ] LinkedIN article- snake and ladder
 - [ ] LinkenIN video - Snake and ladder
 - [x] self Intro
+
+## JavaScript Interview Prep Checklist
 - [ ] leet75 - easy - array and objects
+- [ ] w3 schools javascript
 - [ ] java script todo-list both front and back end 
 - [ ] mongoose
 - [ ] project - must be able to explain line by line
