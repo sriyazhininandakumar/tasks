@@ -1,11 +1,14 @@
-# 09-04-2025
+# Sri Yazhini Nandakumar's Todo
 ## Interview Prep
 - [ ] Set up GitHub account overview
 - [x] resume
 - [ ] LinkedIN article- snake and ladder
 - [ ] LinkenIN video - Snake and ladder
-- [ ] self Intro
-- [ ] Interview Prep - technical
+- [x] self Intro
+- [ ] leet75 - easy - array and objects
+- [ ] java script todo-list both front and back end 
+- [ ] mongoose
+- [ ] project - must be able to explain line by line
 
 ## Study Plan
 - [ ] Toy repo to play around
