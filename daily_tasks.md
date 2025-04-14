@@ -12,7 +12,8 @@
 - [ ] java script todo-list both front and back end 
 - [ ] mongoose
 - [ ] project - must be able to explain line by line
-
+- [ ] Ask Roopak
+      
 ## Study Plan
 - [ ] Toy repo to play around
 - [ ] conflicts in git
