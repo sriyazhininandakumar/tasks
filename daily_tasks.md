@@ -13,6 +13,7 @@
 - [ ] mongoose
 - [ ] project - must be able to explain line by line
 - [ ] Ask Roopak
+- [ ] ask reenu
       
 ## Study Plan
 - [ ] Toy repo to play around
