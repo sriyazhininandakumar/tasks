@@ -2,9 +2,10 @@
 ## Interview Prep
 - [ ] Set up GitHub account overview
 - [x] resume
+- [x] self Intro
 - [ ] LinkedIN article- snake and ladder
 - [ ] LinkenIN video - Snake and ladder
-- [x] self Intro
+- [ ] mail zoho Prashanth
 
 ## JavaScript Interview Prep Checklist
 - [ ] leet75 - easy - array and objects
@@ -12,8 +13,8 @@
 - [ ] java script todo-list both front and back end 
 - [ ] mongoose
 - [ ] project - must be able to explain line by line
-- [ ] Ask Roopak
-- [ ] ask reenu
+- [ ]  
+- [x] ask reenu
       
 ## Study Plan
 - [ ] Toy repo to play around
