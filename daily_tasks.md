@@ -6,6 +6,8 @@
 - [ ] LinkedIN article- snake and ladder
 - [ ] LinkenIN video - Snake and ladder
 - [ ] mail zoho Prashanth
+- [ ] erp
+- [ ] 
 
 ## JavaScript Interview Prep Checklist
 - [ ] leet75 - easy - array and objects
